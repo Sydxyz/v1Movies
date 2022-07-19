@@ -763,7 +763,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("🧭 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🧭", url="https://t.me/Mod_Moviezx")
             ],[
             InlineKeyboardButton("💥 𝙱𝙾𝚃 💥", url="https://t.me/gettglinks/9"),
-            InlineKeyboardButton("⚜️ 𝙶𝚁𝙾𝚄𝙿 ⚜️", url="https://t.me/malayalam_requester_bot)
+            InlineKeyboardButton("⚜️ 𝙶𝚁𝙾𝚄𝙿 ⚜️", url="https://t.me/malayalam_requester_bot")
             ],[
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
@@ -776,25 +776,25 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "photo":
         buttons = [[
-            InlineKeyboardButton(text="𝖡𝗋𝗂𝗀𝗍𝗁", callback_data="bright"),
-            InlineKeyboardButton(text="𝖬𝗂𝗑𝖾𝖽", callback_data="mix"),
-            InlineKeyboardButton(text="𝖡 & 𝖶", callback_data="b|w"),
+            InlineKeyboardButton(text="💥 𝖡𝗋𝗂𝗀𝗍𝗁", callback_data="bright"),
+            InlineKeyboardButton(text="😁 𝖬𝗂𝗑𝖾𝖽", callback_data="mix"),
+            InlineKeyboardButton(text="😆 𝖡 & 𝖶", callback_data="b|w"),
             ],[
-            InlineKeyboardButton(text="𝖢𝗂𝗋𝖼𝗅𝖾", callback_data="circle"),
-            InlineKeyboardButton(text="𝖡𝗅𝗎𝗋", callback_data="blur"),
-            InlineKeyboardButton(text="𝖡𝗈𝗋𝖽𝖾𝗋", callback_data="border"),
+            InlineKeyboardButton(text="😎 𝖢𝗂𝗋𝖼𝗅𝖾", callback_data="circle"),
+            InlineKeyboardButton(text="👁️ 𝖡𝗅𝗎𝗋", callback_data="blur"),
+            InlineKeyboardButton(text="🤏 𝖡𝗈𝗋𝖽𝖾𝗋", callback_data="border"),
             ],[
-            InlineKeyboardButton(text="𝖲𝗍𝗂𝖼𝗄𝖾𝗋", callback_data="stick"),
-            InlineKeyboardButton(text="𝖱𝗈𝗍𝖺𝗍𝖾", callback_data="rotate"),
-            InlineKeyboardButton(text="𝖢𝗈𝗇𝗍𝗋𝖺𝗌𝗍", callback_data="contrast"),
+            InlineKeyboardButton(text="😎 𝖲𝗍𝗂𝖼𝗄𝖾𝗋", callback_data="stick"),
+            InlineKeyboardButton(text="🥳 𝖱𝗈𝗍𝖺𝗍𝖾", callback_data="rotate"),
+            InlineKeyboardButton(text="🎇 𝖢𝗈𝗇𝗍𝗋𝖺𝗌𝗍", callback_data="contrast"),
             ],[
-            InlineKeyboardButton(text="𝖲𝖾𝗉𝗂𝖺", callback_data="sepia"),
-            InlineKeyboardButton(text="𝖯𝖾𝗇𝖼𝗂𝗅", callback_data="pencil"),
-            InlineKeyboardButton(text="𝖢𝖺𝗋𝗍𝗈𝗈𝗇", callback_data="cartoon"),
+            InlineKeyboardButton(text="✨️ 𝖲𝖾𝗉𝗂𝖺", callback_data="sepia"),
+            InlineKeyboardButton(text="🪄 𝖯𝖾𝗇𝖼𝗂𝗅", callback_data="pencil"),
+            InlineKeyboardButton(text="🃏 𝖢𝖺𝗋𝗍𝗈𝗈𝗇", callback_data="cartoon"),
             ],[
-            InlineKeyboardButton(text="𝖨𝗇𝗏𝖾𝗋𝗍", callback_data="inverted"),
-            InlineKeyboardButton(text="𝖦𝗅𝗂𝗍𝖼𝗁", callback_data="glitch"),
-            InlineKeyboardButton(text="𝖱𝖾𝗆𝗈𝗏𝖾 𝖡𝖦", callback_data="removebg")
+            InlineKeyboardButton(text="🙃 𝖨𝗇𝗏𝖾𝗋𝗍", callback_data="inverted"),
+            InlineKeyboardButton(text="🤯 𝖦𝗅𝗂𝗍𝖼𝗁", callback_data="glitch"),
+            InlineKeyboardButton(text="😎 𝖱𝖾𝗆𝗈𝗏𝖾 𝖡𝖦", callback_data="removebg")
             ],[
             InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
         ]]
@@ -806,25 +806,25 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
-            InlineKeyboardButton('𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
-            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
+            InlineKeyboardButton('🔥 𝙼𝙰𝙽𝚄𝙴𝙻 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
+            InlineKeyboardButton('😎 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
+            InlineKeyboardButton('👑 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
             ],[
-            InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='songs'),
-            InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰', callback_data='extra'),
-            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾", callback_data='video')
+            InlineKeyboardButton('🎤 𝚂𝙾𝙽𝙶', callback_data='songs'),
+            InlineKeyboardButton('😁 𝙴𝚇𝚃𝚁𝙰', callback_data='extra'),
+            InlineKeyboardButton("🤩 𝚅𝙸𝙳𝙴𝙾", callback_data='video')
             ],[
-            InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele'),
-            InlineKeyboardButton('𝙿𝙰𝚂𝚃𝙴', callback_data='pastes'),
-            InlineKeyboardButton("𝙸𝙼𝙰𝙶𝙴", callback_data='image')
+            InlineKeyboardButton('🤪 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele'),
+            InlineKeyboardButton('🥰 𝙿𝙰𝚂𝚃𝙴', callback_data='pastes'),
+            InlineKeyboardButton("😇 𝙸𝙼𝙰𝙶𝙴", callback_data='image')
             ],[
-            InlineKeyboardButton('𝙵𝚄𝙽', callback_data='fun'), 
-            InlineKeyboardButton('𝙹𝚂𝙾𝙽𝙴', callback_data='son'),
+            InlineKeyboardButton('😜 𝙵𝚄𝙽', callback_data='fun'), 
+            InlineKeyboardButton('🤭 𝙹𝚂𝙾𝙽𝙴', callback_data='son'),
             InlineKeyboardButton('𝚃𝚃𝚂', callback_data='ttss')
             ],[
-            InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
-            InlineKeyboardButton('𝙿𝙸𝙽𝙶', callback_data='pings'),            
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
+            InlineKeyboardButton('☺️ 𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
+            InlineKeyboardButton('💐 𝙿𝙸𝙽𝙶', callback_data='pings'),            
+            InlineKeyboardButton('🧐 𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('⏭️ 𝙽𝙴𝚇𝚃 ⏭️', callback_data='mkn')

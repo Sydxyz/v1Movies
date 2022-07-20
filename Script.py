@@ -23,9 +23,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This is a  <a href=https://github.com/EvamariaTG/EvaMaria>Eva Mari</a> clone Project
 - All Creditz ❣️ <a href=https://t.me/modmoviez>😎 Mod Team</a> ❣️ Power 🔥🔥
-- Want To Create Your Own Bot For Free🤪
+- Want To Create Your Own Bot Like This For Free🤪
 - Click Here If You Want 😄 👉 :<a href=https://t.me/syd_xyz>Message Me😎</a>
 
 <b>DEVS:</b>

@@ -19,8 +19,8 @@ class script(object):
 ✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/MOD_MOVIEZX>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🔥</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 : <a href=https://t.me/parallel_cinemas> Parallel Cinemas😆</a>
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : @Gettglinks 
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : @Mod_Moviezx
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - All Creditz ❣️ <a href=https://t.me/modmoviez>😎 Mod Team</a> ❣️ Power 🔥🔥
@@ -42,7 +42,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/malayalam_requester_bot https://t.me/mod_moviezx</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
@@ -137,6 +137,7 @@ Do as you wish with telegra.ph module!
 </b>USAGE:</b>
 
 🤧 /telegraph - Send me Picture or Vide Under (5MB)
+                I will Give You The Telegraph Link😝😝😝😝
 
 <b>NOTE:</b>
 
@@ -172,7 +173,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:xxxxxxxxxxxx)</code>
+<code>[Button Text](buttonurl:https://t.me/parallel_cinemas)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -272,7 +273,9 @@ By @{}
 
     URLSHORT_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 
+𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕
+𝚃𝚑𝚒𝚜 𝚆𝚒𝚕𝚕 𝙷𝚎𝚕𝚙🔥𝚈𝚘𝚞 𝚃𝚘 𝙰𝚟𝚘𝚒𝚍 𝙲𝚘𝚙𝚢𝚁𝚒𝚐𝚑𝚝 ©️®️
+
 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 

@@ -19,7 +19,8 @@ reply_markup = InlineKeyboardMarkup(
 @Client.on_message(filters.command(["short"]) & filters.regex(r'https?://[^\s]+'))
 async def reply_shortens(bot, update):
     message = await update.reply_text(
-        text="`Analysing your link... Please Wait😁😁`",
+        text="`Analysing your link...
+               Please Wait😁😁`",
         disable_web_page_preview=True,
         quote=True
     )
@@ -169,7 +170,7 @@ async def short(link):
             async with session.get(api_url, params=params, raise_for_status=True) as response:
                 data = await response.json()
                 url = data["shortenedUrl"]
-                shorten_urls += f"\n**GPLinks.in :-** {url}" 🔥
+                shorten_urls += f"\n**GPLinks.in :-** {url}hi" 
     except Exception as error:
         print(f"GPLink error :- {error}")
     

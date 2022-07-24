@@ -40,15 +40,7 @@ def covid_info(country_name):
 ᚛› Last Update : `{last_update}`
 ᚛› Latitude : `{latitude}`
 ᚛› Longitude : `{longitude}`
-᚛› Recovered : `{recovered}`
-
-<b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
-<a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
-<a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>
-<a href=https://t.me/malayalam_requester_bot>𝙶𝚁𝙾𝚄𝙿❤️‍🔥</a>
-<a href=https://t.me/gettglinks/9>𝙱𝙾𝚃𝚂🎮</a>
-<a href=https://t.me/parallel_Cinemas>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴😉😁</a>
-<a href=https://t.me/bot_cracker>𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻😇💫</a> </b>"""
+᚛› Recovered : `{recovered}`"""
         return covid_info
     except Exception as error:
         return error

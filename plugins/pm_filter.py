@@ -823,7 +823,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('😜 𝙵𝚄𝙽', callback_data='fun'), 
             InlineKeyboardButton('🤭 𝙹𝚂𝙾𝙽𝙴', callback_data='son'),
-            InlineKeyboardButton('𝚃𝚃𝚂', callback_data='ttss')
+            InlineKeyboardButton('😲𝚃𝚃𝚂', callback_data='ttss')
             ],[
             InlineKeyboardButton('☺️ 𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
             InlineKeyboardButton('💐 𝙿𝙸𝙽𝙶', callback_data='pings'),            

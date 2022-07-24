@@ -80,7 +80,7 @@ async def short(link):
         print(f"Click.ru error :- {error}")
     
     # Cutt.ly shorten
-    if CUTY_API:
+    if CUTTLY_API:
         try:
             s = Shortener(api_key=CUTTLY_API)
             url = s.cuttly.short(link)
@@ -92,9 +92,18 @@ async def short(link):
     try:
         s = Shortener()
         url = s.dagd.short(link)
+        shorten_urls += f"\n**Da.gd :-**https://api.cuty.io/quick?token=6485ffdd417b749dd0e543034&url=yourdestinationlink.com&alias=CustomAlias {url}"
+    except Exception as error:
+        print(f"Da.gd error :- {error}")
+
+    # Da.gd shorten
+    try:
+        s = Shortener()
+        url = s.dagd.short(link)
         shorten_urls += f"\n**Da.gd :-** {url}"
     except Exception as error:
         print(f"Da.gd error :- {error}")
+
     
     # Is.gd shorten
     try:

@@ -58,7 +58,7 @@ async def short(link):
         try:
             s = Shortener(api_key=BITLY_API)
             url = s.bitly.short(link)
-            shorten_urls += f"\n**Bit.ly :-** {url}"
+            shorten_urls += f"\n**V1️⃣ :-** {url}"
         except Exception as error:
             print(f"Bit.ly error :- {error}")
     
@@ -66,7 +66,7 @@ async def short(link):
     try:
         s = Shortener()
         url = s.chilpit.short(link)
-        shorten_urls += f"\n**Chilp.it :-** {url}"
+        shorten_urls += f"\n**V2️⃣ :-** {url}"
     except Exception as error:
         print(f"Chilp.it error :- {error}")
     
@@ -74,7 +74,7 @@ async def short(link):
     try:
         s = Shortener()
         url = s.clckru.short(link)
-        shorten_urls += f"\n**Clck.ru :-** {url}"
+        shorten_urls += f"\n**V3️⃣ :-** {url}"
     except Exception as error:
         print(f"Click.ru error :- {error}")
     
@@ -83,7 +83,7 @@ async def short(link):
         try:
             s = Shortener(api_key=CUTTLY_API)
             url = s.cuttly.short(link)
-            shorten_urls += f"\n**Cutt.ly :-** {url}"
+            shorten_urls += f"\n**V4️⃣ :-** {url}"
         except Exception as error:
             print(f"Cutt.ly error :- {error}")
     
@@ -99,7 +99,7 @@ async def short(link):
     try:
         s = Shortener()
         url = s.isgd.short(link)
-        shorten_urls += f"\n**Is.gd :-** {url}"
+        shorten_urls += f"\n**V6️⃣ :-** {url}"
     except Exception as error:
         print(f"Is.gd error :- {error}")
     

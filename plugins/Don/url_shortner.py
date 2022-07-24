@@ -170,7 +170,7 @@ async def short(link):
             async with session.get(api_url, params=params, raise_for_status=True) as response:
                 data = await response.json()
                 url = data["shortenedUrl"]
-                shorten_urls += f"\n**GPLinks.in :-** {url}hi" 
+                shorten_urls += f"\n**GPLinks.in :-** {url}" 
     except Exception as error:
         print(f"GPLink error :- {error}")
     

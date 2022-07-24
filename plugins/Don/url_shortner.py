@@ -70,6 +70,12 @@ async def short(link):
         shorten_urls += f"\n**V2️⃣ :-** {url}"
     except Exception as error:
         print(f"Chilp.it error :- {error}")
+
+{
+    "success": true,
+    "message": null,
+    "short_url": "https://cut-y.net/CustomAlias"
+}
     
     # Clck.ru shorten
     try:

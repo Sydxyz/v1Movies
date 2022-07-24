@@ -70,12 +70,6 @@ async def short(link):
         shorten_urls += f"\n**V2️⃣ :-** {url}"
     except Exception as error:
         print(f"Chilp.it error :- {error}")
-
-{
-    "success": true,
-    "message": null,
-    "short_url": "https://cut-y.net/CustomAlias"
-}
     
     # Clck.ru shorten
     try:
@@ -86,7 +80,7 @@ async def short(link):
         print(f"Click.ru error :- {error}")
     
     # Cutt.ly shorten
-    if CUTTLY_API:
+    if CUTY_API:
         try:
             s = Shortener(api_key=CUTTLY_API)
             url = s.cuttly.short(link)

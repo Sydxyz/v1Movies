@@ -653,8 +653,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="𝖶𝗂𝗍𝗁 𝖡𝖦", callback_data="circlewithbg"),
-                        InlineKeyboardButton(text="𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖡𝖦", callback_data="circlewithoutbg"),
+                        InlineKeyboardButton(text="💟𝖶𝗂𝗍𝗁 𝖡𝖦", callback_data="circlewithbg"),
+                        InlineKeyboardButton(text="🤍𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖡𝖦", callback_data="circlewithoutbg"),
                     ],
                     [
                         InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='photo')
@@ -668,12 +668,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="𝖱𝖾𝖽", callback_data="red"),
-                        InlineKeyboardButton(text="𝖦𝗋𝖾𝖾𝗇", callback_data="green"),
+                        InlineKeyboardButton(text="🔴𝖱𝖾𝖽", callback_data="red"),
+                        InlineKeyboardButton(text="🟢𝖦𝗋𝖾𝖾𝗇", callback_data="green"),
                     ],
                     [
-                        InlineKeyboardButton(text="𝖡𝗅𝖺𝖼𝗄", callback_data="black"),
-                        InlineKeyboardButton(text="𝖡𝗅𝗎𝖾", callback_data="blue"),
+                        InlineKeyboardButton(text="⚫️𝖡𝗅𝖺𝖼𝗄", callback_data="black"),
+                        InlineKeyboardButton(text="🔵𝖡𝗅𝗎𝖾", callback_data="blue"),
                     ],
                     [
                         InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='photo')   
@@ -765,8 +765,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("💥 𝙱𝙾𝚃 💥", url="https://t.me/gettglinks/9"),
             InlineKeyboardButton("⚜️ 𝙶𝚁𝙾𝚄𝙿 ⚜️", url="https://t.me/malayalam_requester_bot")
             ],[
-            InlineKeyboardButton("☣️𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻☣️", url="https://t.me/+6LsRsmxE9UA0N2Zl"),
-            InlineKeyboardButton("🌝𝙱𝚁𝙾𝚃𝙷𝙴𝚁🌝", url="https://t.me/pro_moviez_bot")
+            InlineKeyboardButton("☣️𝙼𝙾𝚅𝙸𝙴𝚂☣️", url="https://t.me/+6LsRsmxE9UA0N2Zl"),
+            InlineKeyboardButton("💠𝙱𝚁𝙾𝚃𝙷𝙴𝚁💠", url="https://t.me/pro_moviez_bot")
             ],[
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
@@ -849,25 +849,25 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "mkn":
         buttons = [[   
-            InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
-            InlineKeyboardButton('𝙼𝚄𝚃𝙴', callback_data='restric'),
-            InlineKeyboardButton('𝙺𝙸𝙲𝙺', callback_data='zombies')
+            InlineKeyboardButton('😊𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
+            InlineKeyboardButton('🔇𝙼𝚄𝚃𝙴', callback_data='restric'),
+            InlineKeyboardButton('🦵𝙺𝙸𝙲𝙺', callback_data='zombies')
             ],[
-            InlineKeyboardButton('𝚁𝙴𝙿𝙾𝚁𝚃', callback_data='report'),
-            InlineKeyboardButton('𝚈𝚃-𝚃𝙷𝚄𝙼𝙱', callback_data='ytthumb'),
-            InlineKeyboardButton('𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳', callback_data='sticker')
+            InlineKeyboardButton('🌡️𝚁𝙴𝙿𝙾𝚁𝚃', callback_data='report'),
+            InlineKeyboardButton('💧𝚈𝚃-𝚃𝙷𝚄𝙼𝙱', callback_data='ytthumb'),
+            InlineKeyboardButton('🌟𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳', callback_data='sticker')
             ],[
-            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona'),
-            InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
-            InlineKeyboardButton('𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', callback_data='urlshort')
+            InlineKeyboardButton('😷𝙲𝙾𝚅𝙸𝙳🦠', callback_data='corona'),
+            InlineKeyboardButton('🎴𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
+            InlineKeyboardButton('🎯𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', callback_data='urlshort')
             ],[
-            InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
-            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),            
-            InlineKeyboardButton('𝙿𝙸𝙽', callback_data='pin')
+            InlineKeyboardButton('🀄𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
+            InlineKeyboardButton('🤿𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),            
+            InlineKeyboardButton('🪡𝙿𝙸𝙽', callback_data='pin')
             ],[
-            InlineKeyboardButton('𝙲𝙰𝚁𝙱𝙾𝙽', callback_data='carb'),
-            InlineKeyboardButton('𝙵𝙾𝙽𝙳', callback_data='fond'),
-            InlineKeyboardButton('𝚉𝙾𝙼𝙱𝙸𝙴', callback_data='zombies')
+            InlineKeyboardButton('♟️𝙲𝙰𝚁𝙱𝙾𝙽', callback_data='carb'),
+            InlineKeyboardButton('🥌𝙵𝙾𝙽𝙳', callback_data='fond'),
+            InlineKeyboardButton('🎰𝚉𝙾𝙼𝙱𝙸𝙴', callback_data='zombies')
             ],[
             InlineKeyboardButton('⏮️ 𝙱𝙰𝙲𝙺 ⏮️', callback_data='help'),
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')           

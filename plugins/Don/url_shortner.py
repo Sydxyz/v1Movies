@@ -9,6 +9,7 @@ BITLY_API = os.environ.get("BITLY_API", "2e461627f4a2b17c1ac0f58c0ef2fe165c903cd
 CUTTLY_API = os.environ.get("CUTTLY_API", "6485ffdd417b749dd0e543034")
 SHORTCM_API = os.environ.get("SHORTCM_API", "773742c6fa2ba266fb5fc8ec04e2294352efe662")
 GPLINKS_API = os.environ.get("GPLINKS_API", "36d6dd04a79634bb5a4ae150903c78b9c9121ce6")
+CUTY_API = os.environ.get("CUTY_API", "
 
 reply_markup = InlineKeyboardMarkup(
         [[

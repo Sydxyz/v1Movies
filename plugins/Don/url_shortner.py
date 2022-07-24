@@ -9,7 +9,6 @@ BITLY_API = os.environ.get("BITLY_API", "2e461627f4a2b17c1ac0f58c0ef2fe165c903cd
 CUTTLY_API = os.environ.get("CUTTLY_API", "6485ffdd417b749dd0e543034")
 SHORTCM_API = os.environ.get("SHORTCM_API", "773742c6fa2ba266fb5fc8ec04e2294352efe662")
 GPLINKS_API = os.environ.get("GPLINKS_API", "36d6dd04a79634bb5a4ae150903c78b9c9121ce6")
-CUTY_API = os.environ.get("CUTY_API", "f64dffbde033b6c307387dd50b7c76e505f1c")
 
 reply_markup = InlineKeyboardMarkup(
         [[
@@ -20,7 +19,8 @@ reply_markup = InlineKeyboardMarkup(
 @Client.on_message(filters.command(["short"]) & filters.regex(r'https?://[^\s]+'))
 async def reply_shortens(bot, update):
     message = await update.reply_text(
-        text="`Analysing your link...`",
+        text="`Analysing your link...
+               Please Wait😁😁`",
         disable_web_page_preview=True,
         quote=True
     )
@@ -88,14 +88,6 @@ async def short(link):
         except Exception as error:
             print(f"Cutt.ly error :- {error}")
     
-    # Da.gd shorten
-    try:
-        s = Shortener()
-        url = s.dagd.short(link)
-        shorten_urls += f"\n**Da.gd :-**https://api.cuty.io/quick?token=6485ffdd417b749dd0e543034&url=yourdestinationlink.com&alias=CustomAlias {url}"
-    except Exception as error:
-        print(f"Da.gd error :- {error}")
-
     # Da.gd shorten
     try:
         s = Shortener()
@@ -178,7 +170,8 @@ async def short(link):
             async with session.get(api_url, params=params, raise_for_status=True) as response:
                 data = await response.json()
                 url = data["shortenedUrl"]
-                shorten_urls += f"\n**GPLinks.in :-** {url}"
+                shorten_urls += f"\n**GPLinks.in :-** {url}
+ Created By"
     except Exception as error:
         print(f"GPLink error :- {error}")
     

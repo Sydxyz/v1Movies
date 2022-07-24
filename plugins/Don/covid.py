@@ -6,9 +6,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 API = "https://api.sumanjay.cf/covid/?country="
 
-BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data='close_data')]])
+BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton("😁𝙲𝙻𝙾𝚂𝙴", callback_data='close_data')]])
 
-@Client.on_message(filters.command("covid"))
+@Client.on_message(filters.command("🦠covid"))
 async def reply_info(client, message):
     query = message.text.split(None, 1)[1]
     await message.reply_photo(
@@ -40,7 +40,15 @@ def covid_info(country_name):
 ᚛› Last Update : `{last_update}`
 ᚛› Latitude : `{latitude}`
 ᚛› Longitude : `{longitude}`
-᚛› Recovered : `{recovered}`"""
+᚛› Recovered : `{recovered}`
+
+<b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
+<a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
+<a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>
+<a href=https://t.me/malayalam_requester_bot>𝙶𝚁𝙾𝚄𝙿❤️‍🔥</a>
+<a href=https://t.me/gettglinks/9>𝙱𝙾𝚃𝚂🎮</a>
+<a href=https://t.me/parallel_Cinemas>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴😉😁</a>
+<a href=https://t.me/bot_cracker>𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻😇💫</a> </b>"""
         return covid_info
     except Exception as error:
         return error

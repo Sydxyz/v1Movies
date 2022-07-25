@@ -9,21 +9,21 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 @Client.on_message(filters.private & filters.command(["font"]))
 async def style_buttons(c, m, cb=False):
     buttons = [[
-        InlineKeyboardButton('𝚃𝚢𝚙𝚎𝚠𝚛𝚒𝚝𝚎𝚛', callback_data='style+typewriter'),
-        InlineKeyboardButton('𝕆𝕦𝕥𝕝𝕚𝕟𝕖', callback_data='style+outline'),
-        InlineKeyboardButton('𝐒𝐞𝐫𝐢𝐟', callback_data='style+serif'),
+        InlineKeyboardButton('😁𝚃𝚢𝚙𝚎𝚠𝚛𝚒𝚝𝚎𝚛', callback_data='style+typewriter'),
+        InlineKeyboardButton('🦹‍♂️𝕆𝕦𝕥𝕝𝕚𝕟𝕖', callback_data='style+outline'),
+        InlineKeyboardButton('💆𝐒𝐞𝐫𝐢𝐟', callback_data='style+serif'),
 
         ],[
 
-        InlineKeyboardButton('𝑺𝒆𝒓𝒊𝒇', callback_data='style+bold_cool'),
-        InlineKeyboardButton('𝑆𝑒𝑟𝑖𝑓', callback_data='style+cool'),
-        InlineKeyboardButton('Sᴍᴀʟʟ Cᴀᴘs', callback_data='style+small_cap'),
+        InlineKeyboardButton('🧞𝑺𝒆𝒓𝒊𝒇', callback_data='style+bold_cool'),
+        InlineKeyboardButton('🚶‍♂️𝑆𝑒𝑟𝑖𝑓', callback_data='style+cool'),
+        InlineKeyboardButton('🧟‍♀️Sᴍᴀʟʟ Cᴀᴘs', callback_data='style+small_cap'),
 
         ],[
 
-        InlineKeyboardButton('𝓈𝒸𝓇𝒾𝓅𝓉', callback_data='style+script'),
-        InlineKeyboardButton('𝓼𝓬𝓻𝓲𝓹𝓽', callback_data='style+script_bolt'),
-        InlineKeyboardButton('ᵗⁱⁿʸ', callback_data='style+tiny'),
+        InlineKeyboardButton('🧜𝓈𝒸𝓇𝒾𝓅𝓉', callback_data='style+script'),
+        InlineKeyboardButton('💇‍♂️𝓼𝓬𝓻𝓲𝓹𝓽', callback_data='style+script_bolt'),
+        InlineKeyboardButton('🤺ᵗⁱⁿʸ', callback_data='style+tiny'),
 
         ],[
 

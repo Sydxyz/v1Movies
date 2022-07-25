@@ -13,7 +13,15 @@ class script(object):
 
 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 <a href=https://t.me/syd_xyz> Mr. Syd 👑</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
+
+<b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
+<a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
+<a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>
+<a href=https://t.me/malayalam_requester_bot>𝙶𝚁𝙾𝚄𝙿❤️‍🔥</a>
+<a href=https://t.me/gettglinks/9>𝙱𝙾𝚃𝚂🎮</a>
+<a href=https://t.me/parallel_Cinemas>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴😉😁</a>
+<a href=https://t.me/bot_cracker>𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻😇💫</a> </b>"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/syd_xyz>𝙼𝚛.𝚂𝚈𝙳 </a>
 ✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/MOD_MOVIEZX>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🔥</a>

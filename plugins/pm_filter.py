@@ -941,6 +941,26 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode='html'
         
         )
+    elif query.data == "broz":
+        buttons = [[
+            InlineKeyboardButton('&', callback_data='bot')
+        ],[
+            InlineKeyboardButton('M𝙾ΓHΞЯ🤙', url='https://t.me/mod_moviezx'),
+            InlineKeyboardButton('🅵︎🅰︎🆃︎🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')
+        ],[
+            InlineKeyboardButton('GRΔΠD ҒΔTHΣR👴', url='https://t.me/nt_backup')
+        ],[
+            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
+            InlineKeyboardButton('ⓞ︎ⓦ︎ⓝ︎ⓔ︎ⓡ︎🧑‍🦰', url='https://t.me/syd_xyz')           
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.BROZ_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        
+        )
     elif query.data == "restric":
         buttons = [[
             InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='mkn')

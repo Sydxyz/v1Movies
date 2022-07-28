@@ -940,13 +940,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-elif query.data == "bro":
+elif query.data == "broz":
         buttons = [[
             InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='bot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text=script.BRO_TXT,
+            text=script.BROZ_TXT,
             disable_web_page_preview=True,
             reply_markup=reply_markup,
             parse_mode='html'

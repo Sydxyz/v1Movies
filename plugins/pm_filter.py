@@ -923,6 +923,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "bot":
         buttons = [[
+            InlineKeyboardButton('&', callback_data='b1')
+        ],[
             InlineKeyboardButton('M𝙾ΓHΞЯ🤙', url='https://t.me/mod_moviezx'),
             InlineKeyboardButton('🅵︎🅰︎🆃︎🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')
         ],[
@@ -934,6 +936,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.BOT_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+elif query.data == "b1":
+        buttons = [[
+            InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='bot')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.B1_TXT,
             disable_web_page_preview=True,
             reply_markup=reply_markup,
             parse_mode='html'

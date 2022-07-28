@@ -31,6 +31,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : @Mod_Moviezx
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : @Bot_Cracker"""
     BOT_TXT ="""𝙼𝚈 𝙵𝙰𝙼𝙸𝙻𝚈 𝙼𝙴𝙼𝙱𝙴𝚁𝚂👇🏻👇🏻👇🏻"""
+    B1_TXT="""😍😍"""
     SOURCE_TXT = """<b>NOTE:</b>
 - All Creditz ❣️ <a href=https://t.me/modmoviez>😎 Mod Team</a> ❣️ Power 🔥🔥
 - Want To Create Your Own Bot Like This For Free🤪

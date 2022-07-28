@@ -928,8 +928,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('GRΔΠD ҒΔTHΣR👴', url='https://t.me/nt_backup')
         ],[
-            InlineKeyboardButton('ⓞ︎ⓦ︎ⓝ︎ⓔ︎ⓡ︎🧑‍🦰', url='https://t.me/syd_xyz'),
-            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')           
+            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
+            InlineKeyboardButton('ⓞ︎ⓦ︎ⓝ︎ⓔ︎ⓡ︎🧑‍🦰', url='https://t.me/syd_xyz')           
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

@@ -923,7 +923,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "bot":
         buttons = [[
-            InlineKeyboardButton('&', callback_data='b1')
+            InlineKeyboardButton('&', callback_data='bro')
         ],[
             InlineKeyboardButton('M𝙾ΓHΞЯ🤙', url='https://t.me/mod_moviezx'),
             InlineKeyboardButton('🅵︎🅰︎🆃︎🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')

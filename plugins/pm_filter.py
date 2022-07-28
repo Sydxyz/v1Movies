@@ -923,7 +923,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "bot":
         buttons = [[
-            InlineKeyboardButton('vvvvvvv', url='https://t.me/syd_xyz')
+            InlineKeyboardButton('M𝙾ΓHΞЯ🤙', url='https://t.me/mod_moviezx'),
+            InlineKeyboardButton('🅵︎🅰︎🆃︎🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')
+        ],[
+            InlineKeyboardButton('GRΔΠD ҒΔTHΣR👴', url='https://t.me/nt_backup')
         ],[
             InlineKeyboardButton('ⓞ︎ⓦ︎ⓝ︎ⓔ︎ⓡ︎🧑‍🦰', url='https://t.me/syd_xyz'),
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')           

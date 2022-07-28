@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/Mod_Moviezx')
+                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/Malayalam_requester_bot')
             ],
             [
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ',callback_data="help")
@@ -47,9 +47,12 @@ async def start(client, message):
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/Mod_Moviezx")
             ],[
-            InlineKeyboardButton("🪁 𝙱𝙾𝚃 🪁", url="https://t.me/gettglinks/9"),
+            InlineKeyboardButton("🪁 𝙱𝙾𝚃 🪁", callback_data="bot"),
             InlineKeyboardButton("〽️ 𝙶𝚁𝙾𝚄𝙿 〽️", url="https://t.me/malayalam_requester_bot")
-            ],[      
+            ],[
+            InlineKeyboardButton("🎀 𝙼𝙾𝚅𝙸𝙴𝚂 🎀", url="https://t.me/+VnZAvjoSWCs0Mzll"),
+            InlineKeyboardButton("🌐 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🌐", url="https://t.me/bot_cracker")
+            ],[
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
         ]]
@@ -95,7 +98,7 @@ async def start(client, message):
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/mkn_bots_updates")
             ],[
-            InlineKeyboardButton("🪁 𝙱𝙾𝚃 🪁", url="https://t.me/gettglinks/9"),
+            InlineKeyboardButton("🪁 𝙱𝙾𝚃 🪁", callback_data="bot"),
             InlineKeyboardButton("〽️ 𝙶𝚁𝙾𝚄𝙿 〽️", url="https://t.me/malayalam_requester_bot")
             ],[      
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),

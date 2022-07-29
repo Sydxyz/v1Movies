@@ -907,7 +907,7 @@ elif query.data == "Syd":
             text="▣ ▣ ▣"
         )
         await query.message.edit_text(                     
-            text=script.HELP_TXT.format(query.from_user.mention),
+            text=script.SYD_TXT.format(query.from_user.mention),
             reply_markup=reply_markup,
             parse_mode='html'
         )

@@ -887,30 +887,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-elif query.data == "Syd":
-        buttons = [[   
-            InlineKeyboardButton('Paid', url='https://t.me/parallel'),
-            InlineKeyboardButton('🎴𝙰𝚄𝙳', url='https://t.me/parallel'),
-            InlineKeyboardButton('🎯𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', url='https://t.me/parallel')
-            ],[
-            InlineKeyboardButton('⏮️ 𝙱𝙰𝙲𝙺 ⏮️', callback_data='mkn'),
-            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')           
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)       
-        await query.message.edit_text(
-            text="▣ ▢ ▢"
-        )
-        await query.message.edit_text(
-            text="▣ ▣ ▢"
-        )
-        await query.message.edit_text(
-            text="▣ ▣ ▣"
-        )
-        await query.message.edit_text(                     
-            text=script.HELP_TXT.format(query.from_user.mention),
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
+
     elif query.data == "about":
         buttons= [[
             InlineKeyboardButton('❣️ 𝙲𝚁𝙴𝙰𝚃𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙱𝙾𝚃 ❣️', callback_data='source')
@@ -967,10 +944,10 @@ elif query.data == "Syd":
         )
     elif query.data == "broz":
         buttons = [[
-            InlineKeyboardButton('&', callback_data='bot')
+            InlineKeyboardButton('uuuuu', callback_data='bot')
         ],[
             InlineKeyboardButton('M𝙾ΓHΞЯ🤙', url='https://t.me/mod_moviezx'),
-            InlineKeyboardButton('🅵︎🅰︎🆃︎🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')
+            InlineKeyboardButton('🅵︎🅰︎😍🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')
         ],[
             InlineKeyboardButton('GRΔΠD ҒΔTHΣR👴', url='https://t.me/nt_backup')
         ],[

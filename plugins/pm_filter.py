@@ -887,22 +887,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "syd":
-        buttons = [[
-            Inlinekeyboardbutton('😇 𝙿𝙰𝙸𝙳 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙾𝙽 😇', url='http://t.me/Paid_promote_RobOt'),
-            Inlinekeyboardbutton('🔥 𝙵𝚁𝙴𝙴 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙾𝙽 🔥', url='http://t.me/Free_promote_Robot')
-            ],[
-            InlineKeyboardButton('ΩШΠΣR😁', url='https://t.me/syd_Xyz')
-            ],[
-            InlineKeyboardButton('⬅️ Back ⬅️', callback_data='mkn'),
-            Inlinekeyboardbutton('🏡 𝙷𝙾𝙼𝙴 🏡', callback_data='start')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.message.edit_text(
-            text=script.SYD_TXT,
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
+
     elif query.data == "about":
         buttons= [[
             InlineKeyboardButton('❣️ 𝙲𝚁𝙴𝙰𝚃𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙱𝙾𝚃 ❣️', callback_data='source')
@@ -922,6 +907,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ) 
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "syd":
+        buttons = [[
+            InlineKeyboardButton('⬅️ Back ⬅️', callback_data='mkn'),
+            Inlinekeyboardbutton('🏡 𝙷𝙾𝙼𝙴 🏡', callback_data='start')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SYD_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )

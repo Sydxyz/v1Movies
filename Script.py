@@ -13,7 +13,7 @@ class script(object):
 
 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 <a href=https://t.me/syd_xyz> Mr. Syd 👑</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 🥳🥳.
 
 <b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
 <a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
@@ -31,7 +31,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : @Mod_Moviezx
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : @Bot_Cracker"""
     BOT_TXT ="""𝙼𝚈 𝙵𝙰𝙼𝙸𝙻𝚈 𝙼𝙴𝙼𝙱𝙴𝚁𝚂👇🏻👇🏻👇🏻"""
-    SYD_TXT ="""HHHH"""
+    SYD_TXT ="""𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂🔥🔥🔥"""
     BROZ_TXT ="""Mybroos"""
     SOURCE_TXT = """<b>NOTE:</b>
 - All Creditz ❣️ <a href=https://t.me/modmoviez>😎 Mod Team</a> ❣️ Power 🔥🔥

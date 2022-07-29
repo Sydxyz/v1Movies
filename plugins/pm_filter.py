@@ -830,7 +830,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🧐 𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
-            InlineKeyboardButton('⏭️ 𝙽𝙴𝚇𝚃 ⏭️', callback_data='mkn')
+            InlineKeyboardButton('➡️ 𝙽𝙴𝚇𝚃 ➡️', callback_data='mkn')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -869,7 +869,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🥌𝙵𝙾𝙽𝙳', callback_data='fond'),
             InlineKeyboardButton('🎰𝚉𝙾𝙼𝙱𝙸𝙴', callback_data='zombies')
             ],[
-            InlineKeyboardButton('⏮️ 𝙱𝙰𝙲𝙺 ⏮️', callback_data='help'),
+            InlineKeyboardButton('⬅️ 𝙱𝙰𝙲𝙺 ⬅️', callback_data='help'),
             InlineKeyboardButton('➡️ 𝙽𝙴𝚇𝚃 ➡️', callback_data='syd')           
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)       
@@ -912,9 +912,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "syd":
         buttons = [[
+            Inlinekeyboardbutton('😇 𝙿𝙰𝙸𝙳 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙾𝙽 😇', url='http://t.me/Paid_promote_RobOt'),
+            Inlinekeyboardbutton('🔥 𝙵𝚁𝙴𝙴 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙾𝙽 🔥', url='http://t.me/Free_promote_Robot')
+            ],[
             InlineKeyboardButton('ΩШΠΣR😁', url='https://t.me/syd_Xyz')
             ],[
-            InlineKeyboardButton('👩‍🦯 Back', callback_data='about')
+            InlineKeyboardButton('⬅️ Back ⬅️', callback_data='mkn'),
+            Inlinekeyboardbutton('🏡 𝙷𝙾𝙼𝙴 🏡', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

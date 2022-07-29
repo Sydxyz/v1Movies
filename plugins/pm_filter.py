@@ -910,6 +910,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
+    elif query.data == "syd":
+        buttons = [[
+            InlineKeyboardButton('ΩШΠΣR😁', url='https://t.me/syd_Xyz')
+            ],[
+            InlineKeyboardButton('👩‍🦯 Back', callback_data='about')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SYD_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
     elif query.data == "source":
         buttons = [[
             InlineKeyboardButton('ΩШΠΣR😁', url='https://t.me/syd_Xyz')

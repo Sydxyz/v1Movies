@@ -889,17 +889,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
 elif query.data == "Syd":
         buttons = [[   
-            InlineKeyboardButton('😷𝙲𝙾𝚅𝙸𝙳🦠', callback_data='corona'),
-            InlineKeyboardButton('🎴𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
-            InlineKeyboardButton('🎯𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', callback_data='urlshort')
-            ],[
-            InlineKeyboardButton('🀄𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
-            InlineKeyboardButton('🤿𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),            
-            InlineKeyboardButton('🪡𝙿𝙸𝙽', callback_data='pin')
-            ],[
-            InlineKeyboardButton('syd', callback_data='carb'),
-            InlineKeyboardButton('🥌𝙵𝙾𝙽𝙳', callback_data='fond'),
-            InlineKeyboardButton('🎰𝚉𝙾𝙼𝙱𝙸𝙴', callback_data='zombies')
+            InlineKeyboardButton('😷𝙲𝙾𝚅𝙸𝙳🦠', url='https://t.me/parallel'),
+            InlineKeyboardButton('🎴𝙰𝚄𝙳', url='https://t.me/parallel'),
+            InlineKeyboardButton('🎯𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', url='https://t.me/parallel')
             ],[
             InlineKeyboardButton('⏮️ 𝙱𝙰𝙲𝙺 ⏮️', callback_data='mkn'),
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')           

@@ -765,8 +765,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("💥 𝙱𝙾𝚃 💥", callback_data="bot"),
             InlineKeyboardButton("⚜️ 𝙶𝚁𝙾𝚄𝙿 ⚜️", url="https://t.me/malayalam_requester_bot")
             ],[
-            InlineKeyboardButton("☣️𝙼𝙾𝚅𝙸𝙴𝚂☣️", url="https://t.me/+6LsRsmxE9UA0N2Zl"),
-            InlineKeyboardButton("💠𝙱𝚁𝙾𝚃𝙷𝙴𝚁💠", url="https://t.me/pro_moviez_bot")
+            InlineKeyboardButton("🎀 𝙼𝙾𝚅𝙸𝙴𝚂 🎀", url="https://t.me/+VnZAvjoSWCs0Mzll"),
+            InlineKeyboardButton("👑 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👑", url="https://t.me/bot_cracker")
             ],[
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
@@ -823,7 +823,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('😜 𝙵𝚄𝙽', callback_data='fun'), 
             InlineKeyboardButton('🤭 𝙹𝚂𝙾𝙽𝙴', callback_data='son'),
-            InlineKeyboardButton('😲𝚃𝚃𝚂', callback_data='ttss')
+            InlineKeyboardButton('😲 𝚃𝚃𝚂', callback_data='ttss')
             ],[
             InlineKeyboardButton('☺️ 𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
             InlineKeyboardButton('💐 𝙿𝙸𝙽𝙶', callback_data='pings'),            
@@ -868,6 +868,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('♟️𝙲𝙰𝚁𝙱𝙾𝙽', callback_data='carb'),
             InlineKeyboardButton('🥌𝙵𝙾𝙽𝙳', callback_data='fond'),
             InlineKeyboardButton('🎰𝚉𝙾𝙼𝙱𝙸𝙴', callback_data='zombies')
+            ],[
+            InlineKeyboardButton('Pro', url='https://t.me/parallel'),
+            Inlinekeyboardbutton('√√', url='https://t.me/parallel')
             ],[
             InlineKeyboardButton('⏮️ 𝙱𝙰𝙲𝙺 ⏮️', callback_data='help'),
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')           

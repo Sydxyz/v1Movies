@@ -31,10 +31,11 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Mod_Moviezx> ©® </a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://t.me/Bot_Cracker> 𝙲𝚁𝙰𝙲𝙺𝙴𝚁𝚂 🎇</a>
 
-➡️𝚃𝙷𝙴𝙰𝚃𝙴𝚁 𝙿𝚁𝙸𝙽𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 :<a href=http://t.me/MrTheater_bot>
-➡️𝚂𝙴𝚁𝙸𝙴𝚂 :
-➡️𝙲𝙰𝚁𝚃𝙾𝙾𝙽𝚂 & 𝙰𝙽𝙸𝙼𝙴𝚂 :
-➡️𝙰𝙽𝙸𝙼𝙰𝚃𝙴𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 : """
+➡️𝚃𝙷𝙴𝙰𝚃𝙴𝚁 𝙿𝚁𝙸𝙽𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 :<a href=http://t.me/MrTheater_bot> 𝙾𝙿𝙴𝙽 ↗️</a>
+➡️𝚂𝙴𝚁𝙸𝙴𝚂 :<a href=http://t.me/Mr_Series_bot>𝙾𝙿𝙴𝙽 ↗️</a>
+➡️𝙲𝙰𝚁𝚃𝙾𝙾𝙽𝚂 & 𝙰𝙽𝙸𝙼𝙴𝚂 :<a href=http://t.me/TooNanami_bot>𝙾𝙿𝙴𝙽↗️</a>
+➡️𝙰𝙽𝙸𝙼𝙰𝚃𝙴𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 :<a href=http://t.me/animated_Movies_bot>𝙾𝙿𝙴𝙽↗️</a>
+➡️𝚂𝙾𝙽𝙶𝚂 :<a href=http://t.me/Mrs_SonG_BoT>𝙾𝙿𝙴𝙽↗️</a> """
     BOT_TXT ="""𝙼𝚈 𝙵𝙰𝙼𝙸𝙻𝚈 𝙼𝙴𝙼𝙱𝙴𝚁𝚂👇🏻👇🏻👇🏻"""
     SYD_TXT ="""𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂🔥🔥🔥"""
     BROZ_TXT ="""Mybroos"""

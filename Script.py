@@ -31,6 +31,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Mod_Moviezx> ©® </a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://t.me/Bot_Cracker> 𝙲𝚁𝙰𝙲𝙺𝙴𝚁𝚂 🎇</a>
 
+➡️𝙿𝙼 𝙼𝙾𝚅𝙸𝙴𝚉 : <a href=http://t.me/Moviez_AutoBot> 𝙾𝙿𝙴𝙽 ↗️</a>
 ➡️𝚃𝙷𝙴𝙰𝚃𝙴𝚁 𝙿𝚁𝙸𝙽𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 :<a href=http://t.me/MrTheater_bot> 𝙾𝙿𝙴𝙽 ↗️</a>
 ➡️𝚂𝙴𝚁𝙸𝙴𝚂 :<a href=http://t.me/Mr_Series_bot> 𝙾𝙿𝙴𝙽 ↗️</a>
 ➡️𝙲𝙰𝚁𝚃𝙾𝙾𝙽𝚂 & 𝙰𝙽𝙸𝙼𝙴𝚂 :<a href=http://t.me/TooNanami_bot> 𝙾𝙿𝙴𝙽↗️</a>
@@ -333,7 +334,15 @@ Delete A Lot Of Messages From Groups!
 <b>Commands and Usage:</b>
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
-• /connections - <code>list all your connections</code>"""
+• /connections - <code>list all your connections</code>
+
+<b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
+<a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
+<a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>
+<a href=https://t.me/malayalam_requester_bot>𝙶𝚁𝙾𝚄𝙿❤️‍🔥</a>
+<a href=https://t.me/gettglinks/9>𝙱𝙾𝚃𝚂🎮</a>
+<a href=https://t.me/parallel_Cinemas>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴😉😁</a>
+<a href=https://t.me/bot_cracker>𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻😇💫</a> </b>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
@@ -343,7 +352,15 @@ these are the extra features of this bot
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+• /search  - <code>get the film information from various sources.</code>
+
+<b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
+<a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
+<a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>
+<a href=https://t.me/malayalam_requester_bot>𝙶𝚁𝙾𝚄𝙿❤️‍🔥</a>
+<a href=https://t.me/gettglinks/9>𝙱𝙾𝚃𝚂🎮</a>
+<a href=https://t.me/parallel_Cinemas>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴😉😁</a>
+<a href=https://t.me/bot_cracker>𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻😇💫</a> </b>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>

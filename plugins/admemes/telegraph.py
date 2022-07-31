@@ -36,13 +36,7 @@ async def telegraph(client, message):
         await message.reply_text(message, text=document)
     else:
         await message.reply(
-            f"Link :- <code>https://telegra.ph{response[0]}</code>    <b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
-<a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
-<a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>
-<a href=https://t.me/malayalam_requester_bot>𝙶𝚁𝙾𝚄𝙿❤️‍🔥</a>
-<a href=https://t.me/gettglinks/9>𝙱𝙾𝚃𝚂🎮</a>
-<a href=https://t.me/parallel_Cinemas>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴😉😁</a>
-<a href=https://t.me/bot_cracker>𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻😇💫</a> </b> ",
+            f"Link :- <code>https://telegra.ph{response[0]}</code> [Mod](https://t.me/moviezx)",
             disable_web_page_preview=True
         )
     finally:

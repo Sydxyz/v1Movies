@@ -910,17 +910,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "syd":
-        buttons = [[
-            InlineKeyboardButton('⬅️ Back ⬅️', callback_data='mkn'),
-            Inlinekeyboardbutton('🏡 𝙷𝙾𝙼𝙴 🏡', callback_data='start')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.message.edit_text(
-            text=script.SYD_TXT,
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
     elif query.data == "source":
         buttons = [[
             InlineKeyboardButton('ΩШΠΣR😁', url='https://t.me/syd_Xyz')
@@ -932,6 +921,26 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text=script.SOURCE_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
+        )
+    elif query.data == "syd":
+        buttons = [[
+            InlineKeyboardButton('&', callback_data='broz')
+        ],[
+            InlineKeyboardButton('M𝙾ΓHΞЯ🤙', url='https://t.me/mod_moviezx'),
+            InlineKeyboardButton('🅵︎🅰︎🆃︎🅷︎🅴︎🆁︎✌️', url='https://t.me/bot_cracker')
+        ],[
+            InlineKeyboardButton('GRΔΠD ҒΔTHΣR👴', url='https://t.me/nt_backup')
+        ],[
+            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
+            InlineKeyboardButton('ⓞ︎ⓦ︎ⓝ︎ⓔ︎ⓡ︎🧑‍🦰', url='https://t.me/syd_xyz')           
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SYD_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        
         )
     elif query.data == "bot":
         buttons = [[
@@ -1050,7 +1059,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "video":
         buttons = [[
-            InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='song')
+            InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

@@ -175,6 +175,9 @@ async def next_page(bot, query):
     if settings['button']:
         btn = [
             [
+                InlineKeyboardButton("»»»»»", url="https://t.me/parallel")
+            ]
+            [
                 InlineKeyboardButton(
                     text=f"[{get_size(file.file_size)}] {file.file_name}", callback_data=f'files#{file.file_id}'
                 ),

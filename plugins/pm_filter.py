@@ -175,9 +175,6 @@ async def next_page(bot, query):
     if settings['button']:
         btn = [
             [
-                InlineKeyboardButton("»»»»»", url="https://t.me/parallel")
-            ]
-            [
                 InlineKeyboardButton(
                     text=f"[{get_size(file.file_size)}] {file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
@@ -186,9 +183,6 @@ async def next_page(bot, query):
         ]
     else:
         btn = [
-            [
-                InlineKeyboardButton("»»»»»", url="https://t.me/parallel")
-            ]
             [
                 InlineKeyboardButton(
                     text=f"{file.file_name}", callback_data=f'files#{file.file_id}'
@@ -209,6 +203,9 @@ async def next_page(bot, query):
         off_set = offset - 6
     if n_offset == 0:
         btn.append(
+            [
+                InlineKeyboardButton("»»»»»", url="https://t.me/parallel")
+            ]
             [InlineKeyboardButton("⬅️ ᗷᗩᑕK", callback_data=f"next_{req}_{key}_{off_set}"),
              InlineKeyboardButton(f"📖 𝙿𝙰𝙶𝙴 {round(int(offset) / 10) + 1} / {round(total / 10)}",
                                   callback_data="pages")]
@@ -1467,7 +1464,8 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         btn.append(
-            [InlineKeyboardButton(text=" 🄿🅐︎Ⓖ︎🅴︎ 📖 1/1", callback_data="pages")]
+            [InlineKeyboardButton(text=" 🄿🅐︎Ⓖ︎🅴︎ 📖 1/1", callback_data="pages"),
+            [InlineKeyboardButton("»»»»»", url="https://t.me/parallel")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']

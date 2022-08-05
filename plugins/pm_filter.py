@@ -1458,7 +1458,7 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         btn.append(
-            [InlineKeyboardButton(text="❇️ 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❇️, url="https://t.me/+YZUTyLd6N4gyNWNl"),
+            [InlineKeyboardButton(text="❇️ 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❇️", url="https://t.me/+YZUTyLd6N4gyNWNl"),
              InlineKeyboardButton(text=" 🄿🅐︎Ⓖ︎🅴︎ 🔰 1/1", callback_data="pages")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None

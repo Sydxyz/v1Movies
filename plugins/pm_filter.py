@@ -217,6 +217,9 @@ async def next_page(bot, query):
                 InlineKeyboardButton("⬅️ 🅱︎ДCҜ", callback_data=f"next_{req}_{key}_{off_set}"),
                 InlineKeyboardButton(f"📄 𝙿𝙰𝙶𝙴 {round(int(offset) / 10) + 1} / {round(total / 10)}", callback_data="pages"),
                 InlineKeyboardButton("ИΞЖΓ ➡️", callback_data=f"next_{req}_{key}_{n_offset}")
+            ],[
+                InlineKeyboardButton("©️®️", url="https://t.me/+YZUTyLd6N4gyNWNl"),
+                InlineKeyboardButton(" 𝙶𝚁𝙾𝚄𝙿 💬", url="https://t.me/malayalam_requester_bot")
             ],
         )
     try:

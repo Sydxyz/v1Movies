@@ -27,7 +27,7 @@ class script(object):
 ✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/MOD_MOVIEZX>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🔥</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 : <a href=https://t.me/parallel_cinemas> Parallel Cinemas😆</a>
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<a href=https://t.me/Gettglinks > 𝙲𝙾𝙾𝙻 𝙶𝚄𝚈😎</a>
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<a href=https://t.me/+3-nuV_9INIg0MDY1 > 𝙲𝙾𝙾𝙻 𝙶𝚄𝚈😎</a>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Mod_Moviezx> ©® </a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://t.me/Bot_Cracker> 𝙲𝚁𝙰𝙲𝙺𝙴𝚁𝚂 🎇</a>
 

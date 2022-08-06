@@ -411,7 +411,7 @@ By @{}
     CORONA_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖢𝗈𝗏𝗂𝖽
 
 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚟𝚒𝚍 
-T̶h̶i̶s̶ c̶o̶m̶m̶a̶n̶f̶ h̶e̶l̶p̶s̶ y̶o̶u̶ t̶o̶ k̶n̶o̶w̶ d̶a̶i̶l̶y̶ i̶n̶f̶o̶r̶m̶a̶t̶i̶o̶n̶ a̶b̶o̶u̶t̶ c̶o̶v̶i̶d̶
+T̶h̶i̶s̶ c̶o̶m̶m̶a̶n̶d̶ h̶e̶l̶p̶s̶ y̶o̶u̶ t̶o̶ k̶n̶o̶w̶ d̶a̶i̶l̶y̶ i̶n̶f̶o̶r̶m̶a̶t̶i̶o̶n̶ a̶b̶o̶u̶t̶ c̶o̶v̶i̶d̶
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 
 ➪ /covid - 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝖼𝗈𝗎𝗇𝗍𝗋𝗒 𝗇𝖺𝗆𝖾 𝗍𝗈 𝗀𝖾𝗍 𝖼𝗈𝗏𝗂𝖽𝖾 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇
@@ -430,7 +430,7 @@ T̶h̶i̶s̶ c̶o̶m̶m̶a̶n̶f̶ h̶e̶l̶p̶s̶ y̶o̶u̶ t̶o̶ k̶n̶o̶w̶
 ➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://t.me/mr_MKN</code>"""
+<code>/short https://t.me/</code>"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
@@ -478,7 +478,7 @@ T̶h̶i̶s̶ c̶o̶m̶m̶a̶n̶f̶ h̶e̶l̶p̶s̶ y̶o̶u̶ t̶o̶ k̶n̶o̶w̶
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_syd>Mr.SYD😎😎</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/syd_xyz>Mr.SYD😎😎</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄

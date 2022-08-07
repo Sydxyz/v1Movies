@@ -41,6 +41,7 @@ class script(object):
     SYD_TXT ="""𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂🔥🔥🔥"""
     BROZ_TXT ="""Mybroos"""
     SEARCH_TXT =""" 𝙾𝙺😗, \n 𝙹𝚄𝚂𝚃 𝚃𝚈𝙿𝙴 𝙰𝙽𝙳 𝚂𝙴𝙽𝙳 𝙼𝙴 𝚃𝙷𝙴 𝙽𝙰𝙼𝙴 𝙾𝙵 𝙼𝙾𝚅𝙸𝙴, 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝚃𝙷𝙰𝚃💯💯💯"""
+    SRY_TXT =""" FEATUES ARE NOT LOADED😁😁😁"""
     SOURCE_TXT = """<b>NOTE:</b>
 - All Creditz ❣️ <a href=https://t.me/modmoviez>😎 Mod Team</a> ❣️ Power 🔥🔥
 - Want To Create Your Own Bot Like This For Free🤪

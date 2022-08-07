@@ -53,12 +53,12 @@ async def start(client, message):
             InlineKeyboardButton("🎀 𝙼𝙾𝚅𝙸𝙴𝚂 🎀", url="https://t.me/+VnZAvjoSWCs0Mzll"),
             InlineKeyboardButton("🌐 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🌐", url="https://t.me/bot_cracker")
             ],[
-            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
+            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="sry"),
+            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="sry")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_chat_action("Typing")
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAIB8GLv2m4yoXm00KUYoGLGms9TDv1eAAKpAAPIlGQU6_xGUzHDKsopBA") 
         await asyncio.sleep(1)
         await m.delete()        
         await message.reply_photo(
@@ -104,8 +104,8 @@ async def start(client, message):
             InlineKeyboardButton("🎀 𝙼𝙾𝚅𝙸𝙴𝚂 🎀", url="https://t.me/+VnZAvjoSWCs0Mzll"),
             InlineKeyboardButton("🎟️ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🎟️", url="https://t.me/bot_cracker")
             ],[      
-            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
+            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="sry"),
+            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="sry")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)          
         await message.reply_chat_action("Typing")

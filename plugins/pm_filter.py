@@ -1110,6 +1110,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
+    elif query.data == "sry":
+        buttons = [[
+            InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='strart')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SRY_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
     elif query.data == "ttss":
         buttons = [[
             InlineKeyboardButton('🚶𝙱𝙰𝙲𝙺', callback_data='help')

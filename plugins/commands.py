@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/Malayalam_requester_bot')
             ],
             [
-                InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ',callback_data="help")
+                InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ',callback_data="sry")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -46,7 +46,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/Mod_Moviezx")
-            ],m
+            ],[
             InlineKeyboardButton("🪁 𝙱𝙾𝚃 🪁", callback_data="bot"),
             InlineKeyboardButton("〽️ 𝙶𝚁𝙾𝚄𝙿 〽️", url="https://t.me/malayalam_requester_bot")
             ],[

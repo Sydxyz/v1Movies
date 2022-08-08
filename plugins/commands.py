@@ -20,7 +20,7 @@ BATCH_FILES = {}
 
 @Client.on_message(filters.command("start"))
 async def start(client, message):
-    if message.chat.type in ['group', 'supergroup']:
+    if messag.chat.type in ['group', 'supergroup']:
         buttons = [
             [
                 InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/Malayalam_requester_bot')

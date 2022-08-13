@@ -19,7 +19,7 @@ reply_markup = InlineKeyboardMarkup(
 @Client.on_message(filters.command(["short"]) & filters.regex(r'https?://[^\s]+'))
 async def reply_shortens(bot, update):
     message = await update.reply_text(
-        text="`Analysing your link...Please Wait😁😁`",
+        text="`I Like Your Smartness 🥳 But Don't Be Over Smart 🤨`",
         disable_web_page_preview=True,
         quote=True
     )

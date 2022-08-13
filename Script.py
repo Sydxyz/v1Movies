@@ -121,7 +121,7 @@ Note:- Give a user details
 
 <b>NOTE:</b>
 1. This bot should have admin privillage.
-2. only admins can add filters in a chat.
+2. only admins of that grp can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
 <b>Commands and Usage:</b>
@@ -129,6 +129,10 @@ Note:- Give a user details
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>
+
+<b>EXAMPLE</b>
+<code> /filter KGF https://t.me/MrMoviez_bot?start=BATCH-BQADBQADKwcAArIEwVdnwwPniXX7SBYE </code>
+/filter (Name Of ** That Should Be Replied) (The Message That Be Replied )
 <b> 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› 
 <a href=https://t.me/Mod_Moviezx><b>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🎐🎐</a>
 <a href=https://t.me/Syd_Xyz>𝙾𝚆𝙽𝙴𝚁😇😇</a>

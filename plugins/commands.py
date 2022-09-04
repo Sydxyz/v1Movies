@@ -96,7 +96,7 @@ async def start(client, message):
             InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/mod_Moviezx")
             ],[
             InlineKeyboardButton("🪁 𝙱𝙾𝚃 🪁", callback_data="bot"),
             InlineKeyboardButton("〽️ 𝙶𝚁𝙾𝚄𝙿 〽️", url="https://t.me/malayalam_requester_bot")
@@ -109,7 +109,7 @@ async def start(client, message):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)          
         await message.reply_chat_action("Typing")
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAIe3mMUYHOmubvwxgpHv2TNe-z-4XmuAAL4AwACn0SJV53dqMabCyXmHgQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(

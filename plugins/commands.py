@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/Malayalam_requester_bot')
             ],
             [
-                InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ',callback_data="sry")
+                InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ',callback_data="help")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)

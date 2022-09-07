@@ -98,7 +98,7 @@ broadcast - to broadcast a message to all Eva Maria users
 *  [Eva Maria](https://github.com/sydxyz/v1movies)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=Bot&message=Crackers&color=critical)](https://telegram.dog/bot_cracker)
 
 ## Spacial Thanks To
 
@@ -106,7 +106,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![Bot Cracker](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mod_moviezx)
+* [![Bot Cracker](https://img.shields.io/static/v1?label=Mod&message=MovieZX&color=critical)](https://t.me/mod_moviezx)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    

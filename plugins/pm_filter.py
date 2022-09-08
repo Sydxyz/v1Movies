@@ -765,14 +765,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("🧭 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🧭", url="https://t.me/Mod_Moviezx")
             ],[
-            InlineKeyboardButton("💥 𝙱𝙾𝚃 💥", callback_data="bot"),
+            InlineKeyboardButton("💥 𝙱𝙾𝚃ꜱ 💥", callback_data="bot"),
             InlineKeyboardButton("⚜️ 𝙶𝚁𝙾𝚄𝙿 ⚜️", url="https://t.me/malayalam_requester_bot")
             ],[
             InlineKeyboardButton("🎀 𝙼𝙾𝚅𝙸𝙴𝚂 🎀", url="https://t.me/+VnZAvjoSWCs0Mzll"),
             InlineKeyboardButton("👑 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👑", url="https://t.me/bot_cracker")
             ],[
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="sry")
+            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -830,7 +830,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('☺️ 𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
             InlineKeyboardButton('💐 𝙿𝙸𝙽𝙶', callback_data='pings'),            
-            InlineKeyboardButton('🧐 𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
+            InlineKeyboardButton('😎 𝙾𝚆𝙽𝙴𝚁 ', user_id=1733124290)
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('➡️ 𝙽𝙴𝚇𝚃 ➡️', callback_data='mkn')
@@ -893,10 +893,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('❣️ 𝙲𝚁𝙴𝙰𝚃𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙱𝙾𝚃 ❣️', callback_data='source')
+            InlineKeyboardButton('❣️ 𝙲𝚁𝙴𝙰𝚃𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙱𝙾𝚃 ❣️', callback_data='source'),
+            InlineKeyboardButton('🤩 ꜱᴛᴀᴛᴜꜱ ', callback_data='stats')
             ],[
-            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
-            InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ 🏠', callback_data='start'),
+            InlineKeyboardButton('🔐 ᴄʟᴏꜱᴇ 🔐', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

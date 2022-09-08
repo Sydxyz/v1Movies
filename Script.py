@@ -25,11 +25,11 @@ class script(object):
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/syd_xyz>𝙼𝚛.𝚂𝚈𝙳 </a>
 ✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/MOD_MOVIEZX>𝙼𝙾𝙳 𝙼𝙾𝚅𝙸𝙴𝚉 𝚇🔥</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚁𝙸𝚅𝙰𝚃𝙴🤪🤪
 ✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 : <a href=https://t.me/parallel_cinemas> Parallel Cinemas😆</a>
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<a href=https://t.me/+3-nuV_9INIg0MDY1 > 𝙲𝙾𝙾𝙻 𝙶𝚄𝚈😎</a>
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Mod_Moviezx> ©® </a>
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://t.me/Bot_Cracker> 𝙲𝚁𝙰𝙲𝙺𝙴𝚁𝚂 🎇</a>
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Mod_Moviezx> 𝙺𝙸𝙽𝙶 𝙾𝙵 𝚄𝙶𝙰𝙽𝙳𝙰😝 </a>
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://t.me/Bot_Cracker> ചീവൻ ഉണ്ട് 🤩</a>
 
 ➡️𝙿𝙼 𝙼𝙾𝚅𝙸𝙴𝚉 : <a href=http://t.me/Moviez_AutoBot> 𝙾𝙿𝙴𝙽 ↗️</a>
 ➡️𝚃𝙷𝙴𝙰𝚃𝙴𝚁 𝙿𝚁𝙸𝙽𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 :<a href=http://t.me/MrTheater_bot> 𝙾𝙿𝙴𝙽 ↗️</a>
@@ -50,7 +50,7 @@ class script(object):
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/Syd_xyz>𝙼𝚛.𝚂𝚈𝙳 😎</a>
 - 𝙳𝚎𝚟 2<a href=https://t.me/mod_moviezx>MM 😆😆😆😆</a>
-- 𝙳𝙴𝚅 3<a href=https://t.me/bot_cracker>𝙱𝙾𝚃 𝙲𝚁𝙰𝙲𝙺𝙴𝚁💥💥</a>"""
+- 𝙳𝚎𝚟 3<a href=https://t.me/bot_cracker>𝙱𝙾𝚃 𝙲𝚁𝙰𝙲𝙺𝙴𝚁💥💥</a>"""
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
 <b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>

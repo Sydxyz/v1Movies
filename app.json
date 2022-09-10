@@ -1,5 +1,5 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "Mr-Moviez-Bot",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
     "logo": "https://telegra.ph/file/e6d627c43c0a8d6c15bac.jpg",
     "keywords": [
@@ -123,6 +123,18 @@
             "description": "Customize Result Buttons to Callback or Url by (True = url / False = callback)",
             "value": "True",
             "required": false
+        },
+            "CHAT_ID": {
+            "description": "Working Group ID @MT_ID_Bot",
+            "value": ""
+        },
+        "APPROVED_WELCOME": {
+            "description": "APPROVED_WELCOME On Or Off",
+            "value": "on"
+        },
+        "APPROVED_WELCOME_TEXT": {
+            "description": "APPROVED_WELCOME_TEXT : Welcome Text",
+            "value": "Hello {mention}\nWelcome To {title}\n\nYour Auto Approved"
         }
     },
     "addons": [],

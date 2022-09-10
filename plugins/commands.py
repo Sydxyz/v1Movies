@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/Mod_Moviezx")
             ],[
             InlineKeyboardButton("🪁 𝙱𝙾𝚃ꜱ 🪁", callback_data="bot"),
-            InlineKeyboardButton("〽️ 𝙶𝚁𝙾𝚄𝙿 〽️", url="https://t.me/malayalam_requester_bot")
+            InlineKeyboardButton("〽️ 𝙶𝚁𝙾𝚄𝙿 〽️", channel_id=-1001605140211)
             ],[
             InlineKeyboardButton("🎀 𝙼𝙾𝚅𝙸𝙴𝚂 🎀", url="https://t.me/+VnZAvjoSWCs0Mzll"),
             InlineKeyboardButton("🌐 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🌐", url="https://t.me/bot_cracker")

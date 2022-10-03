@@ -4,7 +4,7 @@
 
 import asyncio
 from pyrogram import Client as MrMoviez_bot, filters
-from LuciferMoringstar_Robot.functions import get_settings
+from MrMoviez_bot.functions import get_settings
 from pyrogram.errors import ChatWriteForbidden
 
 @MrMoviez_bot.on_message(filters.group & filters.new_chat_members)

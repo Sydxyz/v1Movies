@@ -1,6 +1,4 @@
-# MIT License
 
-# Copyright (c) 2022 Muhammed
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -20,16 +18,14 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
-# License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# Telegram Link : https://telegram.dog/Syd_Xyz
 
 import asyncio
 from pyrogram import Client as lucifermoringstar_robot, filters
 from LuciferMoringstar_Robot.functions import get_settings
 from pyrogram.errors import ChatWriteForbidden
 
-@lucifermoringstar_robot.on_message(filters.group & filters.new_chat_members)
+@MrMoviez_bot.on_message(filters.group & filters.new_chat_members)
 async def welcome(client, update):
     settings = await get_settings(update.chat.id)
     if settings["welcome"]:

@@ -48,8 +48,7 @@ async def save_group(bot, message):
     else:
         for u in message.new_chat_members:
             if (temp.MELCOW).get('welcome') is not None:
-                try:
-                    try:            
+                try:          
                 welcometext = settings["welcometext"]
                 new_members = update.from_user.mention
                 dell = await update.reply_text(welcometext.format(first_name = update.from_user.first_name, last_name = update.from_user.last_name, username = f"@{update.from_user.username}" or None, group_name = update.chat.title, mention = new_members), disable_web_page_preview=True)

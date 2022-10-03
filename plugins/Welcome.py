@@ -3,9 +3,12 @@
 # Telegram Link : https://telegram.dog/Syd_Xyz
 
 import asyncio
-from pyrogram import Client as MrMoviez_bot, filters
-from MrMoviez_bot.functions import get_settings
-from pyrogram.errors import ChatWriteForbidden
+from pyrogram import Client, filters
+from pyrogram.types import Message
+from info import COMMAND_HAND_LER
+from plugins.helper_functions.cust_p_filters import (
+    admin_fliter
+)
 
 @MrMoviez_bot.on_message(filters.group & filters.new_chat_members)
 async def welcome(client, update):
